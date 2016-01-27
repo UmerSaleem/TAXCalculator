@@ -10,6 +10,6 @@ public class TAXActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.tax_activity);
+        setContentView(R.layout.tax_activity1);
     }
 }
